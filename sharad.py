@@ -1,2 +1,1 @@
-print("hello")
-print("welcome to sharad")
+print ("hello")
